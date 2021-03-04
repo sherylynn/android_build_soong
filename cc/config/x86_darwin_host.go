@@ -65,6 +65,7 @@ var (
 		"10.14",
 		"10.15",
 		"11.0",
+		"11.1",
 	}
 
 	darwinAvailableLibraries = append(
